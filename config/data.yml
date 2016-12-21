@@ -1,0 +1,16 @@
+- ip_block: 1.2.0.0/16
+  ip_address: 1.2.3.4
+  device_name: Device1
+- ip_block: 1.2.0.0/16
+  ip_address: 1.2.3.7
+  device_name: Device2
+- ip_block: 1.2.0.0/16
+  ip_address: 1.2.3.4
+  device_name: Device3
+- ip_block: 1.2.0.0/16
+  ip_address: 1.2.3.4
+  device_name: Device4
+
+- ip_block: 1.2.0.0/16
+  ip_address: 1.2.83.23
+  device_name: Device3
